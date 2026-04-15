@@ -2,7 +2,7 @@
 
 This repository contains the dataset generation code for **MassHumanBurn**, a synthetic dataset of 3D human models with burn injuries. The dataset is designed for training and evaluating deep learning models for burned total body surface area (TBSA) estimation from 2D masks, as described in the paper:
 
-> **BurnAreaNet: A Deep Learning Method for Estimating Burned Total Body Surface Area from 2D Masks**
+> **BurnAreaNet: A Deep Learning Method for Estimating Total Body Surface Area from 2D Masks**
 
 The generated dataset is available on Hugging Face:  
 [MassHumanBurns](https://huggingface.co/datasets/HLSS/MassHumanBurns)
@@ -24,7 +24,7 @@ This project is licensed under the Apache License 2.0.
 If you use this dataset or code in your research, please cite:
 ```bibtex
 @article{burnareanet,
-  title={BurnAreaNet: A Deep Learning Method for Estimating Burned Total Body Surface Area from 2D Masks},
+  title={BurnAreaNet: A Deep Learning Method for Estimating Total Body Surface Area from 2D Masks},
   author={Hao Wang, Kaize Zheng, Shuaidan Zeng, Yanyan Liang, Zhu Xiong},
   year={2026}
 }
