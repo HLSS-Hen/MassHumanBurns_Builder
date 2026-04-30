@@ -5,7 +5,8 @@ This repository contains the dataset generation code for **MassHumanBurn**, a sy
 > **BurnAreaNet: A Deep Learning Method for Estimating Total Body Surface Area from 2D Masks**
 
 The generated dataset is available on Hugging Face:  
-[MassHumanBurns](https://huggingface.co/datasets/HLSS/MassHumanBurns)
+[MassHumanBurns](https://huggingface.co/datasets/HLSS/MassHumanBurns)  
+[SAM_Preprocessed_MHB](https://huggingface.co/datasets/HLSS/SAM_Preprocessed_MHB)
 
 ## Overview
 
