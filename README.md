@@ -27,6 +27,7 @@ If you use this dataset or code in your research, please cite:
 @article{burnareanet,
   title={BurnAreaNet: A Deep Learning Method for Estimating Total Body Surface Area from 2D Masks},
   author={Hao Wang, Kaize Zheng, Shuaidan Zeng, Yanyan Liang, Zhu Xiong},
+  journal={Scientific Reports},
   year={2026}
 }
 ```
